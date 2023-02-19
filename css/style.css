@@ -1,0 +1,13 @@
+.center-block {
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    position: relative;
+}
+.child-center-block {
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    position: absolute;
+    top: 505;
+}
